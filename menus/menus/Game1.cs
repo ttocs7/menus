@@ -24,7 +24,7 @@ namespace menus
         Menu menu;
 
         public enum gameState { MAIN_MENU, IN_PROGRESS, PAUSED };
-        gameState state = gameState.IN_PROGRESS;
+        gameState state = gameState.MAIN_MENU;
 
         //keyboard stuff
         Input input;
@@ -81,6 +81,8 @@ namespace menus
             mainMenuItems.Add("A Game of Blocks and Lines");
             mainMenuItems.Add("New Game");
             mainMenuItems.Add("Exit");
+
+            menu = new Menu(this, mainMenuItems);
         }
 
         /// <summary>
@@ -120,18 +122,26 @@ namespace menus
             {
                 case gameState.PAUSED:
                     returnVal = menu.Update(gameTime);
-                    if (returnVal != 0)
+                    if (returnVal == 1)
                     {
                         state = gameState.IN_PROGRESS;
                         menu = null;
                     }
+                    else if (returnVal == 2)
+                    {
+                        this.Exit();
+                    }
                     break;
                 case gameState.MAIN_MENU:
-                    //NYI:  main menu functionality
-                    if (menu.Update(gameTime) == 1)
+                    returnVal = menu.Update(gameTime);
+                    if (returnVal == 1)
                     {
                         state = gameState.IN_PROGRESS;
                         menu = null;
+                    }
+                    else if (returnVal == 2)
+                    {
+                        this.Exit();
                     }
                     break;
             }
@@ -149,6 +159,7 @@ namespace menus
 
             spriteBatch.Begin();
             spriteBatch.DrawString(font, "Game stuff goes here", new Vector2(200, 200), Color.Green);
+            spriteBatch.DrawString(font, "Press Escape to pause the game", new Vector2(200, 250), Color.Green);
             if (returnVal != 0)
             {
                 spriteBatch.DrawString(font, "The menu returned: " + returnVal, new Vector2(200, 300), Color.Orange);
@@ -156,7 +167,7 @@ namespace menus
 
             spriteBatch.End();
 
-            if (state == gameState.PAUSED)
+            if (state != gameState.IN_PROGRESS)
             {
                 menu.Draw(gameTime);
             }
