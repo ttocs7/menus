@@ -1,0 +1,3 @@
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\menus\menus\menusContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Scott Porcaro\My Documents\My Dropbox\menus\menus\menusContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Scott\Documents\My Dropbox\menus\menus\menusContent\obj\x86\Debug\ResolveAssemblyReference.cache

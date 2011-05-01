@@ -1,0 +1,36 @@
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\menus\menus\menus\bin\x86\Debug\menus.exe
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\menus\menus\menus\bin\x86\Debug\menus.pdb
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\menus\menus\menus\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\menus\menus\menus\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\menus\menus\menus\obj\x86\Debug\menus.exe
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\menus\menus\menus\obj\x86\Debug\menus.pdb
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\menus\menus\menus\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\menus\menus\menus\bin\x86\Debug\Content\blanksprite.xnb
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\menus\menus\menus\bin\x86\Debug\Content\SpriteFont1.spritefont
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\menus\menus\menus\bin\x86\Debug\Content\blocksprite.xnb
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\menus\menus\menus\bin\x86\Debug\Content\shadowsprite.xnb
+F:\Users\Scott\Documents\Visual Studio 2010\Projects\menus\menus\menus\bin\x86\Debug\Content\menusprite.xnb
+C:\Documents and Settings\Scott Porcaro\My Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Documents and Settings\Scott Porcaro\My Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\Content\blanksprite.xnb
+C:\Documents and Settings\Scott Porcaro\My Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\Content\blocksprite.xnb
+C:\Documents and Settings\Scott Porcaro\My Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\Content\shadowsprite.xnb
+C:\Documents and Settings\Scott Porcaro\My Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\Content\menusprite.xnb
+C:\Documents and Settings\Scott Porcaro\My Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\Content\SpriteFont1.spritefont
+C:\Documents and Settings\Scott Porcaro\My Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\menus.exe
+C:\Documents and Settings\Scott Porcaro\My Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\menus.pdb
+C:\Documents and Settings\Scott Porcaro\My Documents\My Dropbox\menus\menus\menus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Scott Porcaro\My Documents\My Dropbox\menus\menus\menus\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Scott Porcaro\My Documents\My Dropbox\menus\menus\menus\obj\x86\Debug\menus.exe
+C:\Documents and Settings\Scott Porcaro\My Documents\My Dropbox\menus\menus\menus\obj\x86\Debug\menus.pdb
+C:\Users\Scott\Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Scott\Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\Content\blanksprite.xnb
+C:\Users\Scott\Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\Content\blocksprite.xnb
+C:\Users\Scott\Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\Content\shadowsprite.xnb
+C:\Users\Scott\Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\Content\menusprite.xnb
+C:\Users\Scott\Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\Content\SpriteFont1.spritefont
+C:\Users\Scott\Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\menus.exe
+C:\Users\Scott\Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\menus.pdb
+C:\Users\Scott\Documents\My Dropbox\menus\menus\menus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Scott\Documents\My Dropbox\menus\menus\menus\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Scott\Documents\My Dropbox\menus\menus\menus\obj\x86\Debug\menus.exe
+C:\Users\Scott\Documents\My Dropbox\menus\menus\menus\obj\x86\Debug\menus.pdb

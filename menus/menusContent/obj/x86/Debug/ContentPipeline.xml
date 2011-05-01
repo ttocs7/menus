@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Scott\Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2011-03-26T05:08:00.3999265-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blanksprite.png</Source>
+      <Name>blanksprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Scott\Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\Content\blanksprite.xnb</Output>
+      <Time>2011-03-06T00:12:15.3524628-05:00</Time>
+    </Item>
+    <Item>
+      <Source>blocksprite.tga</Source>
+      <Name>blocksprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Scott\Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\Content\blocksprite.xnb</Output>
+      <Time>2011-03-06T00:16:30.6440647-05:00</Time>
+    </Item>
+    <Item>
+      <Source>shadowsprite.png</Source>
+      <Name>shadowsprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Scott\Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\Content\shadowsprite.xnb</Output>
+      <Time>2011-03-06T00:16:30.6440647-05:00</Time>
+    </Item>
+    <Item>
+      <Source>menusprite.png</Source>
+      <Name>menusprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Scott\Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\Content\menusprite.xnb</Output>
+      <Time>2011-03-26T02:01:43.2793767-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Scott\Documents\My Dropbox\menus\menus\menusContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Scott\Documents\My Dropbox\menus\menus\menus\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Scott\Documents\My Dropbox\menus\menus\menusContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Scott\Documents\My Dropbox\menus\menus\menus\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-10-08T03:57:53.2492812-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
